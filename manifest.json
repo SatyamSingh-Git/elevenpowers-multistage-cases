@@ -1,12 +1,15 @@
 {
  "schema": 1,
- "commit": "5da9adb4bd97b42a8f2e5f7e935e82ba26e3bde4",
+ "commit": "d7bc394f3f9eb526f70e0fc914eba96358d82c42",
  "modules": {
   "eval/multistage_cases.py": "e98870fd77ea197e0cc5116140dbd7f73691b6438c135b3ce9aefc534a305374",
-  "eval/multistage_oracles.py": "05691c7fab9c3b7abc5afa4eb8aa18acceac250b570bf419add258eba019f491",
+  "eval/multistage_oracles.py": "66ae364cabea48fac42b5d31c52350a724ce14ea9aacc3e537b8bceb15bb85e1",
   "eval/multistage_rehearse.py": "428ebd90cdb00b38bfa622903144f0c986f919054573bba4edc62fe51f9217b0",
-  "eval/multistage_power.py": "835d1a186977d68bc330fb50e388ec894d0fc187acfbb1f145da1fe42c3d10eb",
-  "eval/multistage_cases/AUTHORING.md": "4c0610ab36d388c5f0c7832ae9630f1e256ae22fa6a22379350998a6a1e49d2e"
+  "eval/multistage_power.py": "ec02e214c188b8ac6547acfe4efabe820d3f5dade757946afc347eff55c0032e",
+  "eval/multistage_cases/AUTHORING.md": "4c0610ab36d388c5f0c7832ae9630f1e256ae22fa6a22379350998a6a1e49d2e",
+  "eval/multistage_cases/conftest.py": "45f5cb8fe4d21ee1c90a975ab8353e32c5de3b914e0bf38f5337773c4421ad7f",
+  "results/multistage/power.json": "1256293edc60c0df7a988fea3bcdd929bb4a1c93fb4907b45ec054158138d9fb",
+  "results/multistage/freeze.py": "843c5c9c489c4c7ef922105d99a64cceecbf67e7da1ace195b0e1dabce518c36"
  },
  "cases": {
   "access_policy": {
