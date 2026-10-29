@@ -11,9 +11,11 @@ plugin alone against superpowers plus ElevenPowers. It tests two things that
 developers using ElevenPowers on a real project reported: docs were kept
 current, and a fix stopped breaking code that depended on what it changed.
 
-> **Status: frozen, not yet run.** No AI agent has worked on these projects yet.
-> They were built, rehearsed and reviewed with no model involved. Results will
-> be added here and in ElevenPowers once the experiment runs.
+> **Status: these twelve (v2) were piloted on 2026-10-28 and found too easy.**
+> In four pilot conversations nothing broke in either setup: the assistant
+> found every dependent with one search. The experiment moved to
+> **[v3](v3/)**: twelve bigger projects built so that the code at risk is hard
+> to find. These v2 projects stay here unchanged, as frozen.
 
 ## The projects
 
